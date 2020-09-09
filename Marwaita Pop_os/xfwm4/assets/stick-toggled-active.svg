@@ -9,36 +9,37 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
    sodipodi:docname="stick-toggled-active.svg"
-   id="svg156"
+   id="svg174"
    version="1.1"
    viewBox="0 0 32 32"
    height="32"
    width="32">
   <metadata
-     id="metadata162">
+     id="metadata180">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <defs
-     id="defs160" />
+     id="defs178" />
   <sodipodi:namedview
      inkscape:document-rotation="0"
-     inkscape:current-layer="svg156"
+     inkscape:current-layer="svg174"
      inkscape:window-maximized="1"
      inkscape:window-y="0"
      inkscape:window-x="0"
-     inkscape:cy="14.711864"
-     inkscape:cx="-9.4237288"
+     inkscape:cy="17.222904"
+     inkscape:cx="-31.129809"
      inkscape:zoom="7.375"
      showgrid="false"
-     id="namedview158"
-     inkscape:window-height="1015"
+     id="namedview176"
+     inkscape:window-height="1007"
      inkscape:window-width="1920"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
@@ -49,39 +50,40 @@
      bordercolor="#666666"
      pagecolor="#ffffff" />
   <rect
-     style="fill:#cfcfcf;fill-opacity:1"
-     id="rect146"
-     fill="#E0E0E0"
+     style="fill:#313131;fill-opacity:1"
+     id="rect164"
+     fill="#D6D6D6"
      height="32"
      width="32" />
   <rect
-     style="fill:#969696;fill-opacity:1"
-     id="rect148"
+     style="fill:#1d1d1d;fill-opacity:1"
+     id="rect166"
      fill-opacity="0.4"
      fill="#FFFFFF"
      height="1"
      width="32" />
   <g
-     id="g154"
-     opacity="0.6"
-     fill="#000000">
+     id="g172"
+     opacity="0.38"
+     fill="#000000"
+     style="fill:#ffffff;fill-opacity:1;opacity:1">
     <circle
-       id="circle150"
+       id="circle168"
        opacity="0"
        r="12"
        cy="16"
-       cx="16" />
+       cx="16"
+       style="fill:#ffffff;fill-opacity:1" />
     <path
-       id="path152"
-       d="m16 10a6 6 0 0 0 -6 6 6 6 0 0 0 6 6 6 6 0 0 0 6 -6 6 6 0 0 0 -6 -6zm0 2a4 4 0 0 1 4 4 4 4 0 0 1 -4 4 4 4 0 0 1 -4 -4 4 4 0 0 1 4 -4zm0 2a2 2 0 0 0 -2 2 2 2 0 0 0 2 2 2 2 0 0 0 2 -2 2 2 0 0 0 -2 -2z" />
+       id="path170"
+       d="m16 10a6 6 0 0 0 -6 6 6 6 0 0 0 6 6 6 6 0 0 0 6 -6 6 6 0 0 0 -6 -6zm0 2a4 4 0 0 1 4 4 4 4 0 0 1 -4 4 4 4 0 0 1 -4 -4 4 4 0 0 1 4 -4zm0 2a2 2 0 0 0 -2 2 2 2 0 0 0 2 2 2 2 0 0 0 2 -2 2 2 0 0 0 -2 -2z"
+       style="fill:#ffffff;fill-opacity:1" />
   </g>
   <rect
-     y="31"
-     x="9.5367432e-07"
-     width="32"
+     style="opacity:0.1;fill:#ffffff;fill-opacity:1;stroke-width:4"
+     y="1"
+     x="0"
+     id="rect4-3"
      height="1"
-     fill="#FFFFFF"
-     fill-opacity="0.4"
-     id="rect148-5"
-     style="fill:#969696;fill-opacity:1" />
+     width="32" />
 </svg>
