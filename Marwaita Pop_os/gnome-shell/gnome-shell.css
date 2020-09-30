@@ -11,7 +11,7 @@ stage {  color: rgba(0,0,0, 0.8); }
 
 .show-apps .overview-icon, .app-well-app .overview-icon, .grid-search-result .overview-icon, .list-search-result, .search-provider-icon { border-radius: 3px; padding: 6px; border: 2px solid transparent; transition-duration: 100ms; text-align: center; }
 
-.modal-dialog { color: rgba(0,0,0, 0.8); background-color: #e6e6e6; border: 1px solid rgba(0,0,0, 0.3); }
+.modal-dialog { color: rgba(0,0,0, 0.8); background-color: #eee; border: 1px solid rgba(0,0,0, 0.3); }
 
 .app-folder-dialog .folder-name-container .edit-folder-button, .button ,.modal-dialog .modal-dialog-linked-button, .hotplug-notification-item, .notification-banner .notification-button { border-radius: 3px; border-style: solid; border-width: 1px; min-height: 22px; padding: 3px 24px; color: rgba(0,0,0, 0.8); background-color: #fff; border-color: rgba(0,0,0, 0.3); box-shadow: 0 1px rgba(0,0,0, 0.08); text-shadow: none; icon-shadow: none; }
 
