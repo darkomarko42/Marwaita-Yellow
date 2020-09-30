@@ -1,4 +1,4 @@
-# Marwaita
+# Marwaita Pop_os
 GTK theme for Budgie desktop With Pop_os Style
 
 ## Requirments
