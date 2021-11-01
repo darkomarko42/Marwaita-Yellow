@@ -21,7 +21,7 @@
 @define-color gtk_borders mix(@gtk_bg_color,black,0.5);
 @define-color gtk_transparent_borders alpha(black,0.5);
 
-@define-color gtk_selected_bg_color #FFA300;
+@define-color gtk_selected_bg_color shade(#FFA300,1.2);
 @define-color gtk_selected_fg_color black;
 
 @define-color gtk_highlight alpha(white,0.3);

@@ -508,7 +508,7 @@ windowcontrols button{}
 button.suggested-action,
 button.destructive-action{background-clip: border-box; font-weight: bold; border-color: transparent; box-shadow: none;}
 
-button.suggested-action{color: black; background-color: #6ACAD8;}
+button.suggested-action{color: @gtk_selected_fg_color; background-color: @gtk_selected_bg_color;}
 button.destructive-action{color: white; background-color: @error_color;}
 
 button.suggested-action:disabled,
@@ -1695,13 +1695,13 @@ messagedialog button,
 .budgie-session-dialog .linked.horizontal > button:first-child,
 .budgie-polkit-dialog .linked.horizontal > button:first-child,*/
 window.dialog.message.csd .dialog-action-area button:first-child
-{ border-radius: 3.0px 0  0 3.0px; border-width: 1px 0 1px 1px;}
+,
 
 /*messagedialog .linked button:last-child,
 .budgie-session-dialog .linked.horizontal > button:last-child,
 .budgie-polkit-dialog .linked.horizontal > button:last-child,*/
 window.dialog.message.csd .dialog-action-area button:last-child
-{ border-radius: 0 3.0px 3.0px 0;}
+{ border-radius: 3.0px;}
 
 messagedialog .linked button:only-child{}
 
