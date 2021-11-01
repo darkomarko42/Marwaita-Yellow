@@ -508,7 +508,7 @@ windowcontrols button{}
 button.suggested-action,
 button.destructive-action{background-clip: border-box; font-weight: bold; border-color: transparent; box-shadow: none;}
 
-button.suggested-action{color: @gtk_selected_fg_color; background-color: @gtk_selected_bg_color;}
+button.suggested-action{color: black; background-color: #6acad8;}
 button.destructive-action{color: white; background-color: @error_color;}
 
 button.suggested-action:disabled,
