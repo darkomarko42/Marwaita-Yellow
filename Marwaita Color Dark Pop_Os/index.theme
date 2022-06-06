@@ -1,12 +1,12 @@
 [Desktop Entry]
 Type=X-GNOME-Metatheme
-Name=Marwaita Dark Pop_os
+Name=Marwaita Color Dark Pop_Os
 Comment=GTK Theme
 Encoding=UTF-8
 
 [X-GNOME-Metatheme]
-GtkTheme=Marwaita Dark Pop_os
-MetacityTheme=Marwaita Dark Pop_os
+GtkTheme=Marwaita Color Dark Pop_Os
+MetacityTheme=Marwaita Color Dark Pop_Os
 IconTheme=Luna-Dark
 CursorTheme=Luna
 CursorSize=24
