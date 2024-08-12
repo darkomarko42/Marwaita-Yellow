@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Marwaita-s-Dark-Yellow
+Comment=GTK Theme
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Marwaita-s-Dark-Yellow
+MetacityTheme=Marwaita-s-Dark-Yellow
+IconTheme=Marwaita
+CursorTheme=Marwaita
+CursorSize=24
