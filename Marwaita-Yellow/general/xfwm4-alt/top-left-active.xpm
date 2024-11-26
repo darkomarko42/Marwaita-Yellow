@@ -1,21 +1,18 @@
 /* XPM */
 static char *top_left_active[] = {
 /* columns rows colors chars-per-pixel */
-"8 42 3 1 ",
+"8 38 4 1 ",
 "  c None",
-". c #CFA70A",
+". c #CEA80A",
 "X c #CFA80A",
+"o c #CFA80B",
 /* pixels */
-"    XXXX",
+"     oXX",
+"   .XXXX",
 "  XXXXXX",
+" .XXXXXX",
 " XXXXXXX",
-" XXXXXXX",
-".XXXXXXX",
-"XXXXXXXX",
-"XXXXXXXX",
-"XXXXXXXX",
-"XXXXXXXX",
-"XXXXXXXX",
+"oXXXXXXX",
 "XXXXXXXX",
 "XXXXXXXX",
 "XXXXXXXX",
